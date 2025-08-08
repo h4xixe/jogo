@@ -1114,7 +1114,7 @@ function Game() {
               <p className="text-sm leading-snug">
                 Desenvolvido por Miguel Pietro (303)
                 <br />
-                Grupo: Ana Laura, Ana Luiza, Leticia, Linkeker, Maria Fernanda, Miguel, Vitoria, Yasmin.
+                Grupo: Ana Laura, Ana Luiza, Leticia, Liniker, Maria Fernanda, Miguel, Vitoria, Yasmin.
               </p>
               <div className="mt-3 text-right">
                 <Button onClick={() => setShowCredits(false)} className="bg-emerald-700 hover:bg-emerald-600">

@@ -432,7 +432,7 @@ function drawGem(ctx: CanvasRenderingContext2D, r: Rect, t: number) {
   c.fillStyle = COLORS.gold
   c.fillRect(r.x + r.w / 2 - 2, r.y, 4, 4)
   c.fillRect(r.x + 1, r.y + 4, r.w - 2, 4)
-  c.fillStyle = COLORS.jade
+  c.fillStyle = COLORS.boss
   c.fillRect(r.x + 2, r.y + 8, r.w - 4, 4)
   c.globalAlpha = 0.6
   c.fillStyle = COLORS.ui
